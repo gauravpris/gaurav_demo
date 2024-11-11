@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_demo/Modules/splash_screen.dart';
 import 'package:flutter_demo/Utils/AppColor.dart';
 
+//Created by gaurav
 void main() {
   runApp(MyApp());
 }
